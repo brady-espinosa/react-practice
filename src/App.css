@@ -27,7 +27,8 @@
   text-align: center;
 }
 .getButton {
-  margin-left: auto;
+  margin: auto;
+    width: 50%;
 }
 
 @keyframes App-logo-spin {
